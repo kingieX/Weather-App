@@ -13,7 +13,7 @@ body {
     background: #000000d0;
     color: #fff;
     padding: 2em;
-    border-radius: 1.875em;
+    border-radius: 10%;
     width: 100%;
     max-width: 420px;
     margin-top:  5em;
@@ -89,9 +89,9 @@ h1.Temp {
 /* Footer */
 
 .footer {
-    position:absolute;
+    position:fixed;
     bottom:0;
-    /*left:0;*/
+    left:0;
     width:100%;
     height: auto;
     background-color: #000000d0;
