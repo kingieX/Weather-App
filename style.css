@@ -2,7 +2,7 @@ body {
     background-image: url("https://source.unsplash.com/1600x900/?landscape");
     height: 100vh;
     font-size: 120%;
-    margin: 0;
+    margin: 5px;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -13,7 +13,7 @@ body {
     background: #000000d0;
     color: #fff;
     padding: 2em;
-    border-radius: 10%;
+    border-radius: 1.875em;
     width: 100%;
     max-width: 420px;
     margin-top:  5em;
